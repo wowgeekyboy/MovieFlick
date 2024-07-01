@@ -13,7 +13,7 @@ Welcome to **Movie Flick** - your ultimate destination to discover, explore, and
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd MovieFlick
+   cd MovieFlick https://github.com/wowgeekyboy/MovieFlick.git
 2. **Install dependencies:**
    ```bash
    npm install
