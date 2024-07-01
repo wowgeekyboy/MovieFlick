@@ -12,8 +12,8 @@ Welcome to **Movie Flick** - your ultimate destination to discover, explore, and
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd MovieFlick https://github.com/wowgeekyboy/MovieFlick.git
+   git clone (https://github.com/wowgeekyboy/MovieFlick.git)
+   cd MovieFlick 
 2. **Install dependencies:**
    ```bash
    npm install
